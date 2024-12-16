@@ -1,0 +1,11 @@
+control_7seg.c:13:6:update_buffer_1	4	static
+control_7seg.c:29:6:update_buffer_2	4	static
+control_7seg.c:45:6:update_buffer_3	4	static
+control_7seg.c:63:6:update_led7_1_1	16	static
+control_7seg.c:80:6:update_led7_1_2	16	static
+control_7seg.c:97:6:update_led7_1_3	16	static
+control_7seg.c:116:6:update_led7_2_2	16	static
+control_7seg.c:132:6:update_led7_2_1	16	static
+control_7seg.c:148:6:update_led7_2_3	16	static
+control_7seg.c:166:6:display7SEG_1	16	static
+control_7seg.c:282:6:display7SEG_2	16	static
